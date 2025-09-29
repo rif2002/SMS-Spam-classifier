@@ -63,12 +63,6 @@ The project also includes an interactive **Streamlit web app** where users can i
 
 ---
 
-## 🖼️ Project Demo  
-📌 Example: *(replace with your actual screenshot)*  
-![Spam Classifier UI](screenshot.png)  
-
----
-
 ## ✅ Conclusion  
 Successfully built an **SMS Spam Classifier** with **97% accuracy and perfect precision** using the **Multinomial Naïve Bayes algorithm**.  
 Integrated with a **Streamlit interface** to make the model accessible and user-friendly.  
